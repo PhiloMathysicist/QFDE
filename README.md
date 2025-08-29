@@ -3,7 +3,7 @@ WOMANIUM &amp; WISER 2025 Quantum Projects
 
 # Work In Progress [Phase 2]
 
-Going forward, this repository is going to represent the phase 2/face of this repository! Since, upon inquiring further, there was no concrete desire/determination from the peers to carry on with the mission (this having been already established amid the project), until further notice, MKM may opt to pursue the remaining tasks/visions alone and shall do so irregularly. The initial phase of the project was the end-product of access to only 25 days (and only partially) out of the 40 days, initially determined for the projects due to the factors not in control!
+Going forward, this branch is going to represent the phase 2/face of this repository! Since, upon inquiring further, there was no concrete desire/determination from the peers to carry on with the mission (this having been already established amid the project), until further notice, MKM may opt to pursue the remaining tasks/visions alone and shall do so irregularly. The initial phase of the project was the end-product of access to only 25 days (and only partially) out of the 40 days, initially determined for the projects due to the factors not in control!
 
 Notable potential points of modification, upgrades, and future scope (curated by MKM):
 
