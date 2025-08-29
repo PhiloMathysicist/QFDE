@@ -3,7 +3,7 @@ WOMANIUM &amp; WISER 2025 Quantum Projects
 
 # Work In Progress [Phase 2]
 
-Going forward, this branch is going to represent the phase 2/face of this repository [For the initial pushes, you may temporarily check the "main" branch.]! Since, upon inquiring further, there was no concrete desire/determination from the peers to carry on with the mission (this having been already established amid the project), until further notice, MKM may opt to pursue the remaining tasks/visions alone and shall do so irregularly. The initial phase of the project was the end-product of access to only 25 days (and only partially) out of the 40 days, initially determined for the projects due to the factors not in control!
+Going forward, this branch is going to represent the phase 2/face of this repository! Since, upon inquiring further, there was no concrete desire/determination from the peers to carry on with the mission (this having been already established amid the project), until further notice, MKM may opt to pursue the remaining tasks/visions alone and shall do so irregularly. The initial phase of the project was the end-product of access to only 25 days (and only partially) out of the 40 days, initially determined for the projects due to the factors not in control!
 
 Notable potential points of modification, upgrades, and future scope (curated by MKM):
 
@@ -74,20 +74,14 @@ Team Member 3:
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
 
-
+The description of the project will be updated once considerable progress has been made with the attributed targets of the project!
 
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
-
-[https://docs.google.com/presentation/d/1s4WZhg0Xdc48tiEDxg4iBenwstyCZl7d/edit?usp=sharing&ouid=111343293882647029409&rtpof=true&sd=true](https://docs.google.com/presentation/d/1s4WZhg0Xdc48tiEDxg4iBenwstyCZl7d/edit?usp=sharing&ouid=111343293882647029409&rtpof=true&sd=true)
-
-
-See project presentation guidelines [here](https://www.thewiser.org/quantum-projects)
-
-
+This presentation is temporarily out of reach and will be updated, according to the final results!
 [https://docs.google.com/presentation/d/1s4WZhg0Xdc48tiEDxg4iBenwstyCZl7d/edit?usp=sharing&ouid=111343293882647029409&rtpof=true&sd=true](https://docs.google.com/presentation/d/1s4WZhg0Xdc48tiEDxg4iBenwstyCZl7d/edit?usp=sharing&ouid=111343293882647029409&rtpof=true&sd=true)
 
 
