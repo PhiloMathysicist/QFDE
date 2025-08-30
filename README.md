@@ -20,7 +20,7 @@ Notable potential points of modification, upgrades, and future scope (curated by
 
 5. The explicit form of the exact solution, appropriate for both the IC & BCs will be investigated. The integral, containing the absolute values in one of the stages must be dealt with initially by breaking in two, and there may be a way to retrieve the exact functionality of all the parameters in a final form subsequently. In addition, the more well-known case over the infinite-domain doesn't apply here, as we are dealing with finite bounded intervals. The complication is largely due to that (the existence of BCs on top of the ICs)!
 
-6. A collection of noiseless simulation, noisy simulation and QPU run of the stage 4 (along with perhaps a noiseless variant for that of 2) could be feasible. This shall be on the agenda later (barring the QPU run currently for factors out of control!).
+6. A collection of noiseless simulation, noisy simulation and QPU run of the stage 4 (along with perhaps a noiseless variant for that of 2) could be feasible. This shall be on the agenda later (barring the QPU run currently for factors out of control!). It is imperative to pay sufficient attention to QRE and the appropriate QEM techniques, where applicable in between!
 
 
 
